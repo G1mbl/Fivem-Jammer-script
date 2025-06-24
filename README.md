@@ -1,2 +1,3 @@
 # Fivem Jammer script
-Fivem Jammer script compatible with my drone script[ESX/QB][FREE]
+Fivem Jammer script [ESX/QB][FREE]
+compatible with my drone script
